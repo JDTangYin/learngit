@@ -9,3 +9,4 @@ with lhg_software account
 Creating a new branch is quick. 
 Creating a new branch is quick AND simple.
 下面我们实战一下--no-ff方式的git merge：
+2015年4月27日19:40:23 测试一下sourcetree
