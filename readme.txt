@@ -4,8 +4,9 @@ path, new PageEntity(uriInfo, entity)
 test modify git file
 readme.txt
 with lhg_software account
-2015Äê4ÔÂ17ÈÕ09:48:44
-2015Äê4ÔÂ17ÈÕ10:00:00
+2015å¹´4æœˆ17æ—¥09:48:44
+2015å¹´4æœˆ17æ—¥10:00:00
 Creating a new branch is quick. 
 Creating a new branch is quick AND simple.
-ÏÂÃæÎÒÃÇÊµÕ½Ò»ÏÂ--no-ff·½Ê½µÄgit merge£º
+ä¸‹é¢æˆ‘ä»¬å®æˆ˜ä¸€ä¸‹--no-ffæ–¹å¼çš„git mergeï¼š
+branch dev edited 2015å¹´4æœˆ28æ—¥11:10:54
